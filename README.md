@@ -1,10 +1,15 @@
 # Gestión de Reservas Naturales Privadas de Guatemala
 ## Ingeniería de Software - UVG 2019
 María Fernanda Estrada 14198
+
 Christopher Sandoval 13660
+
 Dieter de Wit 15146
+
 Josué David López 17081
+
 Luis Estuardo Delgado 17187
+
 Oliver Andrés Mazariegos 16043
 
 ### Corte 1
