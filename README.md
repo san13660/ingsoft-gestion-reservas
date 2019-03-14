@@ -14,3 +14,6 @@ Oliver Andrés Mazariegos 16043
 
 ## Corte 1
 Link de doc: https://docs.google.com/document/d/1r8lidmN-4MhkeQGafW9QY95LJ7NvWg3Q8QF29F_K0rQ/edit?usp=sharing
+
+## Corte 2
+Link de doc: https://docs.google.com/document/d/16zGaKuGaTUOz4mRfxKSxLhscAhGNigRBQyMH0MvcnW4/edit?usp=sharing
