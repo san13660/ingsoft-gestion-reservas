@@ -17,3 +17,6 @@ Link de doc: https://docs.google.com/document/d/1r8lidmN-4MhkeQGafW9QY95LJ7NvWg3
 
 ## Corte 2
 Link de doc: https://docs.google.com/document/d/16zGaKuGaTUOz4mRfxKSxLhscAhGNigRBQyMH0MvcnW4/edit?usp=sharing
+
+## Corte 3
+Link de doc: https://docs.google.com/document/d/1jcL2j3-14eawEUnELsHW7RMnY_xwUa6_bBkvLmrzGxs/edit?usp=sharing
